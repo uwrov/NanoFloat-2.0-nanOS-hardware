@@ -9,4 +9,10 @@ Helpful links:
 
 >[DRV-8833 Motor Driver Pinout and User Guide](https://lastminuteengineers.com/drv8833-arduino-tutorial/)
 
->[Blue Robotics Pressure Sensor](https://bluerobotics.com/store/sensors-cameras/sensors/bar02-sensor-r1-rp/)
+>[Blue Robotics Bar-30 Pressure Sensor](https://bluerobotics.com/store/sensors-cameras/sensors/bar-depth-pressure-sensor/)
+
+>[MCP23017 Expander](https://ww1.microchip.com/downloads/en/devicedoc/20001952c.pdf)
+
+>[Adafruit LoRa RFM9x](https://www.mouser.com/datasheet/2/737/adafruit_rfm69hcw_and_rfm96_rfm95_rfm98_lora_packe-2488685.pdf)
+
+>[RadioHead Arduino Library](https://www.airspayce.com/mikem/arduino/RadioHead/)
